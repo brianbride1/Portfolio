@@ -1,0 +1,26 @@
+html {
+    font-size: 16px;
+    background-color:rgb(241, 244, 245);
+    color: rgb(15, 14, 14);
+}
+
+h1 {
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+}
+
+.NavBar {
+    display: grid;
+    height: 300px;
+    width: 100px;
+    grid-template: repeat(10, 1fr);
+    border: 1px blue solid;
+    gap: 5px;
+}
+
+
+.MenuSelection {
+    border: 2px blueviolet solid;
+    padding: 2px;
+}
