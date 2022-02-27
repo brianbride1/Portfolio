@@ -24,3 +24,7 @@ h1 {
     border: 2px blueviolet solid;
     padding: 2px;
 }
+
+.MenuSelection a:hover {
+    color:red;
+}
