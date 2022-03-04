@@ -25,7 +25,7 @@ h1 {
     padding: 2px;
 }
 
-.MenuSelection a:hover {
+.MenuSelection :hover {
     color:red;
     border:crimson 2em;
     background-color:darkkhaki;
