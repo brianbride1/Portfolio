@@ -27,4 +27,6 @@ h1 {
 
 .MenuSelection a:hover {
     color:red;
+    border:crimson 2em;
+    background-color:darkkhaki;
 }
