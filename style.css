@@ -5,6 +5,7 @@ html {
 }
 
 h1 {
+    display: grid;
     height: 100px;
     width: 1000px;
     text-align: center;
@@ -15,7 +16,6 @@ h1 {
     height: 300px;
     width: 100px;
     grid-template: repeat(10, 1fr);
-    border: 1px blue solid;
     gap: 5px;
 }
 
